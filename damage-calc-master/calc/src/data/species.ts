@@ -22,7 +22,7 @@ export interface SpeciesData {
 }
 
 const RBY: {[name: string]: SpeciesData} = {
-  Abra: {
+  Abras: {
     types: ['Psychic'],
     bs: {hp: 25, at: 20, df: 15, sp: 90, sl: 105},
     weightkg: 19.5,
